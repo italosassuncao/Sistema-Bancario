@@ -273,6 +273,7 @@ def recuperar_conta_cliente(cliente):
     return cliente.contas[0]
 
 
+@log_transacao
 def depositar(clientes):
     cpf = input("Informe o CPF do cliente: ")
     cliente = filtrar_cliente(cpf, clientes)
