@@ -1,4 +1,11 @@
-[2024-06-13 21:19:35] Função 'novo_cliente' executada com argumentos ([PessoaFisica: ('Iromildo Arroba', '45645645612')],) e {}. Retornou None
-[2024-06-13 21:19:42] Função 'nova_conta' executada com argumentos (1, [PessoaFisica: ('Iromildo Arroba', '45645645612')], [<__main__.ContaCorrente object at 0x00000257117E6810>]) e {}. Retornou None
-[2024-06-13 21:45:09] Função 'novo_cliente' executada com argumentos ([PessoaFisica: ('fgbtg', '456456')],) e {}. Retornou None
-[2024-06-13 21:45:15] Função 'nova_conta' executada com argumentos (1, [PessoaFisica: ('fgbtg', '456456')], [<__main__.ContaCorrente object at 0x000001CE8BB96960>]) e {}. Retornou None
+[2024-06-14 20:54:52] Função 'novo_cliente' executada com argumentos ([PessoaFisica: ('teste', '5')],) e {}. Retornou None
+[2024-06-14 20:54:56] Função 'nova_conta' executada com argumentos (1, [PessoaFisica: ('teste', '5')], [ContaCorrente: ('0001', '1', 'teste')]) e {}. Retornou None
+[2024-06-14 21:01:11] Função 'novo_cliente' executada com argumentos ([PessoaFisica: ('teste', '4')],) e {}. Retornou None
+[2024-06-14 21:01:16] Função 'nova_conta' executada com argumentos (1, [PessoaFisica: ('teste', '4')], [ContaCorrente: ('0001', '1', 'teste')]) e {}. Retornou None
+[2024-06-14 21:13:47] Função 'novo_cliente' executada com argumentos ([PessoaFisica: ('2', '2')],) e {}. Retornou None
+[2024-06-14 21:13:54] Função 'nova_conta' executada com argumentos (1, [PessoaFisica: ('2', '2')], [ContaCorrente: ('0001', '1', '2')]) e {}. Retornou None
+[2024-06-14 21:16:10] Função 'depositar' executada com argumentos ([],) e {}. Retornou None
+[2024-06-14 21:16:24] Função 'novo_cliente' executada com argumentos ([PessoaFisica: ('1', '1')],) e {}. Retornou None
+[2024-06-14 21:16:27] Função 'nova_conta' executada com argumentos (1, [PessoaFisica: ('1', '1')], [ContaCorrente: ('0001', '1', '1')]) e {}. Retornou None
+[2024-06-14 21:16:32] Função 'depositar' executada com argumentos ([PessoaFisica: ('1', '1')],) e {}. Retornou None
+[2024-06-14 21:16:37] Função 'mostrar_extrato' executada com argumentos ([PessoaFisica: ('1', '1')],) e {}. Retornou None
